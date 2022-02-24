@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolCallsApp", "SchoolCallsApp\SchoolCallsApp.csproj", "{C8193324-29E8-4147-8256-B36B72758E0E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SchoolAppInstall", "SchoolAppInstall\SchoolAppInstall.vdproj", "{87836669-01AC-4B05-B950-04F50D93A0FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8193324-29E8-4147-8256-B36B72758E0E}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{C8193324-29E8-4147-8256-B36B72758E0E}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{C8193324-29E8-4147-8256-B36B72758E0E}.Debug|x64.ActiveCfg = Debug|x64
+		{C8193324-29E8-4147-8256-B36B72758E0E}.Debug|x64.Build.0 = Debug|x64
+		{C8193324-29E8-4147-8256-B36B72758E0E}.Debug|x86.ActiveCfg = Debug|x86
+		{C8193324-29E8-4147-8256-B36B72758E0E}.Debug|x86.Build.0 = Debug|x86
+		{C8193324-29E8-4147-8256-B36B72758E0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8193324-29E8-4147-8256-B36B72758E0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8193324-29E8-4147-8256-B36B72758E0E}.Release|x64.ActiveCfg = Release|x64
+		{C8193324-29E8-4147-8256-B36B72758E0E}.Release|x64.Build.0 = Release|x64
+		{C8193324-29E8-4147-8256-B36B72758E0E}.Release|x86.ActiveCfg = Release|x86
+		{C8193324-29E8-4147-8256-B36B72758E0E}.Release|x86.Build.0 = Release|x86
+		{87836669-01AC-4B05-B950-04F50D93A0FD}.Debug|Any CPU.ActiveCfg = Debug
+		{87836669-01AC-4B05-B950-04F50D93A0FD}.Debug|x64.ActiveCfg = Debug
+		{87836669-01AC-4B05-B950-04F50D93A0FD}.Debug|x86.ActiveCfg = Debug
+		{87836669-01AC-4B05-B950-04F50D93A0FD}.Release|Any CPU.ActiveCfg = Release
+		{87836669-01AC-4B05-B950-04F50D93A0FD}.Release|x64.ActiveCfg = Release
+		{87836669-01AC-4B05-B950-04F50D93A0FD}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70A88E09-F716-43E0-91C2-02B6B6DEF705}
+	EndGlobalSection
+EndGlobal
